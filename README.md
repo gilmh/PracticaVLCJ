@@ -33,7 +33,7 @@ Esta aplicación cumple los siguientes puntos:
 Es posible que haya algunos problemas con el sistema operativo y no funcione el reproducir DVDs y CDs de audio o algún otro problema que no he encontrado la forma de solucionarlo. Respecto al streaming hay algún problema ya que no funcionan todas las URL.
 
 Los iconos los he buscado por internet y entre otras páginas en las que he buscado son: 
-  - http://openiconlibrary.sourceforge.net/gallery2/?.
+  - http://openiconlibrary.sourceforge.net/gallery2/
   - http://icones.pro/es/
 
 
